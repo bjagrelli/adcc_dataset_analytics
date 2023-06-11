@@ -1,16 +1,15 @@
-# BJJ Data Scraping
+# ADCC Historical Data
 
 
-> Data scraping from BJJ Heroes for further data analysis on BJJ statistics.
+> Data scraping from BJJ Heroes for further data analysis on ADCC statistics.
 
 ### What's next
 
 There's still much to be done. But we'll get there.
 - [x] Web scraping (Extract)
-- [ ] Data cleansing (Transform) 
-- [ ] Data Ingestion (Load)
-- [ ] Data Analysis
-- [ ] Data Visualization
+- [x] Data cleansing (Transform) 
+- [x] Data ingestion (Load)
+- [ ] Dataset availabel
 
 ## 🚀 Running bjj_data_scraping
 
