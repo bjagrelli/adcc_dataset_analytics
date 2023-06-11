@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 .venv
 *.ipynb
-bjj_fighters.html
-fighters/*
+tables/*
 __pycache__/*
+*.db
+*.db.wal
+*.csv
